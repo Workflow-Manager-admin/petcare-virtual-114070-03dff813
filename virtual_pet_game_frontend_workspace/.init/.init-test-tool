@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/petcare-virtual-114070-03dff813/virtual_pet_game_frontend_workspace/virtual_pet_game_frontend"
+}
